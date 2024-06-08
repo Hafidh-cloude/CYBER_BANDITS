@@ -1,2 +1,2 @@
-# CYBER_BANDITS
-Informatics Expo
+# CYBER BANDITS
+Informatics Expo 2023
